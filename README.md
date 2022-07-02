@@ -9,4 +9,4 @@ Instructions:
 
 -Run 'PingPongTegaNatufeApplication.java'
 
--Type the url 'http://localhost:8080/ping' on local machine via a browser's address bar
+-Type the url 'localhost:8080/ping' on local machine via a browser's address bar
